@@ -1,0 +1,81 @@
+body {
+  background-color: #fff;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+.header {
+  background-color: #FFF;
+  font-size: 15px;
+  font-family: verdana, sans-serif;
+  line-height: 1.25;
+  background-color: #fff;
+  top: 0;
+  width: 100%;
+  position: fixed;
+  font-weight: 900;
+  text-align: center;
+}
+
+.header li {
+  display: inline-block;
+}
+
+.header a {
+  display: block;
+  color: #4A4A4A;
+  padding: 20px 10px;
+}
+
+.banner-section {
+  background-color: #FFD700;
+  height: 700px;
+  width: 100%;
+}
+
+h1 {
+  color: #fff;
+  text-align: center;
+  padding: 200px;
+  font-family: verdana, sans-serif;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: verdana, sans-serif;
+  font-size: 14px; 
+}
+
+footer {
+  background-color: #000;
+  font-size: 13px;
+  text-align: left;
+  font-family: verdana, sans-serif;
+  color: #fff;
+  padding: 5px 10px;
+}
+
+.about-section {
+  text-align: center;
+  background-color: #fff;
+}
+
+.portfolio-section {
+  text-align: center;
+}
+
+.contact-section {
+  text-align: center;
+}
+
+.contact-section li {
+  display: inline-block;
+}
+
+.contact-section a {
+  display: block;
+  color:#4A4A4A;
+}
